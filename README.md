@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Saeed</h1>
-<h3 align="center">A passionate frontend developer from Islamabad, Pakistan</h3>
+<h3 align="center">A passionate Computer Software Engineer from Islamabad, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1122coder&label=Profile%20views&color=0e75b6&style=flat" alt="1122coder" /> </p>
 

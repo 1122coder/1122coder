@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malik Muhammad Kashif Saeed</h1>
-<h3 align="center">A passionate for Data Science, Machine Learning/AI, and Web Development, I bring a versatile skill set that can provide immense value in today's data-driven world.</h3>
+<h3 align="center">A passionate about Data Science, Machine Learning/AI, Deep Learning and Web development, I bring a versatile skill set that can provide immense value in today's data-driven world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1122coder&label=Profile%20views&color=0e75b6&style=flat" alt="1122coder" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Web development**
 
-- 💬 Ask me about **ReactJs, Model Building, Python, JavaScript, Machine Learning, mySQL**
+- 💬 Ask me about **ReactJs, Model Building, Python, JavaScript, Machine Learning, deep learning mySQL**
 
 - 📫 How to reach me **malikkashifsaeed414@gmail.com**
 

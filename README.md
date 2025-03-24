@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malik Muhammad Kashif Saeed</h1>
-<h3 align="center">A passionate about Data Science, Machine Learning/AI, Deep Learning Web and App developer, I bring a versatile skill set that can provide immense value in today's data-driven world.</h3>
+<h3 align="center">A versatile Full-Stack Developer and AI Engineer passionate about building and maintaining AI-driven web and mobile applications. I specialize in creating intelligent agents, integrating Large Language Models (LLMs) and AI image models, and delivering seamless user experiences. With a strong interest in DevOps, I also focus on optimizing development pipelines and ensuring scalable, efficient deployments in today’s data-driven world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1122coder&label=Profile%20views&color=0e75b6&style=flat" alt="1122coder" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on **Data Science, Machine Learning/AI and App development** projects
+- 🌱 I’m currently working on **AI-driven web and mobile applications, intelligent agent development, and DevOps optimization.**
 
-- 💬 Ask me about **ReactJs, Model Building, Python, JavaScript, Machine Learning, deep learning, react-native, Java, Flask, FastAPI mySQL**
+- 💬 Ask me about **Full-Stack Development, AI Engineering, LLMs, AI image models, ReactJs, Python, JavaScript, Java, Flask, FastAPI, MySQL, and DevOps practices.**
 
 - 📫 How to reach me **malikkashifsaeed414@gmail.com**
 
